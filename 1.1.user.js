@@ -5,7 +5,7 @@
 // @description  全国学生“学宪法 讲宪法”活动自动答题脚本,因缺少测试账号无法保证每年都能用，欢迎大家提供测试账号以支持此脚本长期可用，测试账号登录信息请发送至我们的邮箱admin@shanglin.cloud
 // @author       Shanglin-Youth
 // @match        *://static.qspfw.moe.gov.cn/*
-// @icon         https://pfzs.shanglin.cloud/files/logo.png/
+// @icon         https://pfzs.shanglin.cloud/files/logo32.ico
 // @connect      cx.gocos.cn
 // @run-at       document-end
 // @grant        unsafeWindow
